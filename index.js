@@ -331,6 +331,7 @@ function lotsOfArt(array){
 }
 
 console.log(lotsOfArt(artists));
+ 
 
 
 
